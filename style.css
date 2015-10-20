@@ -1,0 +1,10 @@
+iframe {
+    width: 800px;
+    height: 800px;
+    background-color: #FFF;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 50%;
+    transform: translate(0px, -50%);
+}
